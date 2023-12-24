@@ -1,9 +1,9 @@
 
 
 import os
+from SupportFolders import*
 
 
 def main_method():
-    print('dicision tree algorithm main branch')
-
+    folderCreate()
 main_method()
